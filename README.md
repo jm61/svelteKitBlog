@@ -1,6 +1,7 @@
 # create-svelte
 
-Everything you need to build a Svelte project, powered by [`SvelteKit Crash Course w/ Tailwind CSS and DaisyUI, GraphQL and dynamic routes`](https://www.youtube.com/watch?v=zH2qG9YwN3s&t=590s).
+Everything you need to build a Svelte project, powered by
+[`SvelteKit Crash Course w/ Tailwind CSS and DaisyUI, GraphQL and dynamic routes`](https://www.youtube.com/watch?v=zH2qG9YwN3s&t=590s).
 
 ## Creating a project
 
@@ -16,7 +17,8 @@ npm init svelte@next my-app
 
 ## Developing
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or
+`yarn`), start a development server:
 
 ```bash
 npm run dev
@@ -35,4 +37,5 @@ npm run build
 
 You can preview the production build with `npm run preview`.
 
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for
+> your target environment.
